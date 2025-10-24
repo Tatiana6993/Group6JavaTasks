@@ -1,6 +1,6 @@
 package weeklyTasksForGr6;
 
-public class oddOrEven {
+public class oddOrEvenTask {
 
      /*
     Write a method which can identify if a given number odd or even.
