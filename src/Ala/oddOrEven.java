@@ -6,10 +6,23 @@ public class oddOrEven {
 
         System.out.println("This is Ala");
 
+        identify(5);
+        identify(6);
     }
 
-
+    public static void identify(int number) {
+        if (number % 2 == 0) {
+            System.out.println("Even");
+        } else {
+            System.out.println("Odd");
+        }
     }
+}
+
+
+
+
+
 
 
 
