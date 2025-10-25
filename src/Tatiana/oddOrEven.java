@@ -1,7 +1,6 @@
-package weeklyTasksForGr6;
+package Tatiana;
 
-public class oddOrEvenTask {
-
+public class oddOrEven {
     public static void main(String[] args) {
 
         identifyNum(7);
@@ -9,6 +8,8 @@ public class oddOrEvenTask {
 
         identifyNumber(9);
         identifyNumber(23);
+
+
 
     }
 
@@ -21,15 +22,18 @@ public class oddOrEvenTask {
 
 
     public static  void identifyNumber(int num1){
-        String result = (num1 /2 == 0) ? "Even number" : "Odd number";
+       String result = (num1 /2 == 0) ? "Even number" : "Odd number";
         System.out.println(result);
     }
 
-
-     /*
+       /*
     Write a method which can identify if a given number odd or even.
     Ex:
        Identify(5) --> "Odd"
        Identify(6) --> "Even"
      */
 }
+
+
+
+
