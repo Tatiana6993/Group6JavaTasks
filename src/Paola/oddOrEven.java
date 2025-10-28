@@ -2,6 +2,26 @@ package Paola;
 
 public class oddOrEven {
     public static void main(String[] args) {
-        System.out.println("Hello");
+
+        int userInput = 6;
+
+        String result = isOddOrEven(userInput);
+        System.out.println(result);
+
     }
+
+    public static String isOddOrEven(int num) {
+
+        if (!Character.isLetter(num)) {
+            if (num % 2 == 0) {
+                return num + " is an even number";
+            } else {
+                return num + " is an odd number";
+            }
+        } else {
+            return "Invalid number";
+        }
+    }
+
+
 }
