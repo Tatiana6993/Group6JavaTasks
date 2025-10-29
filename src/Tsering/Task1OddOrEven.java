@@ -1,6 +1,6 @@
 package Tsering;
 
-public class oddOrEven {
+public class Task1OddOrEven {
 
     public static void main(String[] args) {
 
