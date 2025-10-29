@@ -19,6 +19,7 @@ public class oddOrEven {
 }
 
     /*
+
     public static void identifyNum(int num1) {
         String result = (num % 2 == 0) ? "Even number" : "Odd number";
         System.out.println(result);
