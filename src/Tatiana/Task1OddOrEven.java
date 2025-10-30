@@ -1,6 +1,6 @@
 package Tatiana;
 
-public class oddOrEven {
+public class Task1OddOrEven {
     public static void main(String[] args) {
 
         identifyNum(7);
@@ -10,6 +10,8 @@ public class oddOrEven {
         identifyNumber(23);
 
 
+
+        //changed title
 
     }
 
