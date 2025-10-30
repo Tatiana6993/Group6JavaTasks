@@ -3,7 +3,7 @@ package Paola;
 public class oddOrEven {
     public static void main(String[] args) {
 
-        int userInput = 6;
+        int userInput = 't';
 
         String result = isOddOrEven(userInput);
         System.out.println(result);
