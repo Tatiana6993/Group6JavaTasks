@@ -1,6 +1,6 @@
 package Tsering;
 
-public class oddOrEven {
+public class Task1OddOrEven {
 
     public static void main(String[] args) {
 
@@ -19,6 +19,7 @@ public class oddOrEven {
 }
 
     /*
+
     public static void identifyNum(int num1) {
         String result = (num % 2 == 0) ? "Even number" : "Odd number";
         System.out.println(result);
