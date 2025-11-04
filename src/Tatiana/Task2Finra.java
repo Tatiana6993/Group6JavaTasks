@@ -1,4 +1,4 @@
-package weeklyTasksForGr6;
+package Tatiana;
 
 public class Task2Finra {
 
