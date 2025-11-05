@@ -1,5 +1,7 @@
 package Silvio.week2;
 
+import java.util.Scanner;
+
 public class Finra {
     /* Task 2, FINRA.
     Write a Java method that follows these rules:
@@ -10,7 +12,12 @@ public class Finra {
 
     public static void main (String[] args){
 
-        finra(1,30);
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please input your starting number.");
+        int start = input.nextInt();
+        System.out.println("Please input your ending number.");
+        int end = input.nextInt();
+        finra(start,end);
 
     }
 
