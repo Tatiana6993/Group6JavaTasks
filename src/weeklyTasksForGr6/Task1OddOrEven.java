@@ -1,6 +1,6 @@
 package weeklyTasksForGr6;
 
-public class oddOrEvenTask {
+public class Task1OddOrEven {
 
     public static void main(String[] args) {
 
