@@ -4,7 +4,7 @@ public class Task2Finra {
 
     public static void main(String[] args) {
 
-        printFinra();
+        printFinra();// calling the method
     }
 
     public static void printFinra() {
