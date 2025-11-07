@@ -1,6 +1,6 @@
 package Iskandarbek;
 
-public class FinRa_Task {
+public class Task02_FinRa {
     public static void main(String[] args) {
 // Call the finRaCheck method to process and print numbers from 1 to 20
         // using the FIN/RA/FINRA substitution rule.
