@@ -1,9 +1,9 @@
 package Paola;
 
-public class oddOrEven {
+public class Task1OddOrEven {
     public static void main(String[] args) {
 
-        int userInput = 6;
+        int userInput = 't';
 
         String result = isOddOrEven(userInput);
         System.out.println(result);
