@@ -4,8 +4,10 @@ public class Task3SwappingNumbers {
 
     public static void main(String[] args) {
 
-        int a = 10;
-        int b = 20;
+switchNumbers(5,15);
+    }
+
+    public static void switchNumbers(int a,int b) {
 
         System.out.println("Before swapping: a = " + a + ", b = " + b);
 
